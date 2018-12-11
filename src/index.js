@@ -6,7 +6,7 @@ import "../css/styles.css";
 class Index extends React.Component {
     render() {
         return (
-            <div>
+            <div className="App">
                 <App />
             </div>
         );
